@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   JavierIH robots and stuff
 twitter_username: JavierIH
 github_username: JavierIH
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: neon
 search: true
 
 # Build settings
@@ -72,6 +72,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/evilrobot86"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/javier-isabel-hernández-726b4b59"
 
 footer:
   links:
@@ -84,6 +87,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/evilrobot86"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/javier-isabel-hernández-726b4b59"
 
 defaults:
   # _posts
