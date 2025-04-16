@@ -1,7 +1,11 @@
 ---
 title: "Un post de prueba"
 date: 2025-04-15
-categories: [blog]
+categories:
+  - Robots
+tags:
+  - manual
+  - servo
 ---
 
 Contenido del post lalala.
