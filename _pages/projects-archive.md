@@ -11,8 +11,8 @@ td, th {
 }
 </style>
 
-| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame|
-| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame|
-| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame|
-| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame|
-| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame|
+| [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/posts) Minikame | [![robot](/assets/images/empty.jpg 'robot')](/posts) robotrobot| [![robot](/assets/images/empty.jpg 'robot')](/posts) robotrobot|
+| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot|
+| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot|
+| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot|
+| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot| [![robot](/assets/images/empty.jpg 'robot')](/posts) robot|
