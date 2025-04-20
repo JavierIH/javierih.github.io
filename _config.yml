@@ -34,10 +34,6 @@ comments:
     reactions-enabled:    "1"
     theme:               "dark"
     crossorigin:         "anonymous"    
-  utterances:
-    repo:                "javierih/javierih.github.io"
-    theme:               "github-dark"
-    issue_term:          "pathname"
 
 # Build settings
 markdown: kramdown
