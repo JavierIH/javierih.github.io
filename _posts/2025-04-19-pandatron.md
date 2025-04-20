@@ -2,7 +2,7 @@
 title: "Pandatron"
 date: 2025-04-19
 categories:
-  - Robots
+  - robots
 ---
 
 Pandatron is a line-following robot I built back in 2017 as my first step into the world of line-follower competitions. Two years before, I teamed up with Rubén Espino and Javier Baliñas to take part in several events of the spanish national robotics league, [LNRC](https://robotsleague.com/). These events included line-followers, mini-sumos, and humanoid robot battles, where I competed with [Raider](/robots/raider).
