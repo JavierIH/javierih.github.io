@@ -22,6 +22,23 @@ github_username: JavierIH
 minimal_mistakes_skin: custom
 search: true
 
+repository: "javierih/javierih.github.io"
+comments:
+  provider: "giscus"
+  giscus:
+    repo:                "javierih/javierih.github.io"
+    repo-id:             "R_kgDOOaPdqw"
+    category:            "General"
+    category-id:         "DIC_kwDOOaPdq84CpSgQ"
+    mapping:             "title"
+    reactions-enabled:    "1"
+    theme:               "dark"
+    crossorigin:         "anonymous"    
+  utterances:
+    repo:                "javierih/javierih.github.io"
+    theme:               "github-dark"
+    issue_term:          "pathname"
+
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -99,7 +116,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      read_time: false
       comments: true
       share: true
       related: true
