@@ -33,7 +33,8 @@ comments:
     mapping:             "pathname"
     reactions-enabled:    "1"
     theme:               "dark"
-    crossorigin:         "anonymous"    
+    crossorigin:         "anonymous"
+    input-position:      "bottom"
 
 # Build settings
 markdown: kramdown
