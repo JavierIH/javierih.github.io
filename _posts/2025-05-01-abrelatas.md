@@ -34,6 +34,12 @@ You can find all the design files, CAD models, and code on my [GitHub](https://g
 
 Here is a video of Abrelatas in action from the last competition:
 
+<video controls width="640">
+  <source src="https://www.oshwdem.org/wp-content/uploads/2024/04/video5841452394994470987.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 # Bill of materials
 
 <style>
