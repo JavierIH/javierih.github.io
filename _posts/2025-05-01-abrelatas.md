@@ -61,10 +61,10 @@ td, th {
 | **Item**      | **Description**       | **Units** | **Link**                                                  |
 | Spinner motor | Sunnysky X2212 980KV  | 1         | [Aliexpress](https://s.click.aliexpress.com/e/_oldCXqp)   |
 | Wheel motors  | N20 600rpm            | 4         | [Aliexpress](https://s.click.aliexpress.com/e/_opPCzkd)   |
-| Tires         | Scaleauto             | 1         | [Boxerslot](https://boxerslot.com/neumaticos-slot-124/675-scaleauto-sc-4802-neumatico-espuma-124-procomp-30mm-diamext-20.html)   |
+| Tires         | Scaleauto             | 4         | [Boxerslot](https://boxerslot.com/neumaticos-slot-124/675-scaleauto-sc-4802-neumatico-espuma-124-procomp-30mm-diamext-20.html)   |
 | ESCs          | 20A                   | 2         | [Aliexpress](https://s.click.aliexpress.com/e/_oEAXy3P)   |
 | Battery       | Tattu 3S 450mAh       | 1         | [Aliexpress](https://s.click.aliexpress.com/e/_opgXWGv)   |
-| Transmitter   | FrSky Taranis X9D     | 12        | [Aliexpress](https://s.click.aliexpress.com/e/_oDKeYXf)   |
+| Transmitter   | FrSky Taranis X9D     | 1         | [Aliexpress](https://s.click.aliexpress.com/e/_oDKeYXf)   |
 | Receiver      | FrSky compatible 4ch  | 1         | [Aliexpress](https://s.click.aliexpress.com/e/_oErHXpn)   |
 | Bearings      | 693ZZ                 | 2         | [Aliexpress](https://s.click.aliexpress.com/e/_onsn3RF)   |
 | Screws        | M3x6 (for the blade)  | 8         | [Aliexpress](https://s.click.aliexpress.com/e/_opnr99D)   |
