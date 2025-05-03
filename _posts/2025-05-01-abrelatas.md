@@ -66,6 +66,7 @@ td, th {
 | Battery       | Tattu 3S 450mAh       | 1         | [Aliexpress](https://s.click.aliexpress.com/e/_opgXWGv)   |
 | Transmitter   | FrSky Taranis X9D     | 1         | [Aliexpress](https://s.click.aliexpress.com/e/_oDKeYXf)   |
 | Receiver      | FrSky compatible 4ch  | 1         | [Aliexpress](https://s.click.aliexpress.com/e/_oErHXpn)   |
+| Belts         | 120mm                 | 2         | [Aliexpress](https://s.click.aliexpress.com/e/_opPbQEt)   |
 | Bearings      | 693ZZ                 | 2         | [Aliexpress](https://s.click.aliexpress.com/e/_onsn3RF)   |
 | Screws        | M3x6 (for the blade)  | 8         | [Aliexpress](https://s.click.aliexpress.com/e/_opnr99D)   |
 | Screws        | M3x8                  | 28        | [Aliexpress](https://s.click.aliexpress.com/e/_opnr99D)   |
