@@ -3,9 +3,9 @@
    ========================================================================== */
 
 /* Colors */
-$background-color: #141010 !default;
-$text-color: #fff6fb !default;
-$primary-color: #00ba41 !default;
+$background-color: #0a0a0a !default;
+$text-color: #c4c4c4 !default;
+$primary-color: #ff3535 !default;
 $border-color: mix(#fff, $background-color, 20%) !default;
 $code-background-color: mix(#000, $background-color, 15%) !default;
 $code-background-color-dark: mix(#000, $background-color, 20%) !default;
@@ -61,3 +61,7 @@ $base0f: #cc6633 !default;
 .ais-search-box .ais-search-box--input {
   background-color: $form-background-color;
 }
+
+::selection {
+    background: #1953ac !important;
+  }

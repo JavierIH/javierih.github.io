@@ -73,24 +73,18 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "I like robots."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://javierih.github.io/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-x-twitter"
-      url: "https://x.com/javierih"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/JavierIH"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-x-twitter"
+      url: "https://x.com/javierih"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/evilrobot86"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/javier-isabel-hernández-726b4b59"
-    - label: "Ko-fi"
-      icon: "fas fa-fw fa-coffee"
-      url: "https://ko-fi.com/JavierIH"
 
 footer:
   links:
