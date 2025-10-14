@@ -32,13 +32,10 @@ When this version gets destroyed (and it will soon), I’ll redesign it with few
 
 You can find all the design files, CAD models, and code on my [GitHub](https://github.com/javierih/abrelatas).
 
-Here is a video of Abrelatas in action from the last competition:
+Here is a video of Abrelatas in action:
 
-<video controls width="640">
-  <source src="https://www.oshwdem.org/wp-content/uploads/2024/04/video5841452394994470987.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Tvm4GXLFNsc?si=Lqsd60Rds4Wwfra9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[]()
 
 # Bill of materials
 
