@@ -22,23 +22,23 @@ $navicon-link-color-hover: mix(#000, $background-color, 30%) !default;
 $notice-background-mix: 90% !default;
 $code-notice-background-mix: 95% !default;
 
-/* neon syntax highlighting (base16) */
-$base00: #ffffff !default;
-$base01: #e0e0e0 !default;
-$base02: #d0d0d0 !default;
-$base03: #b0b0b0 !default;
-$base04: #000000 !default;
-$base05: #101010 !default;
-$base06: #151515 !default;
-$base07: #202020 !default;
-$base08: #ff0086 !default;
-$base09: #fd8900 !default;
-$base0a: #aba800 !default;
-$base0b: #00c918 !default;
-$base0c: #1faaaa !default;
-$base0d: #3777e6 !default;
-$base0e: #ad00a1 !default;
-$base0f: #cc6633 !default;
+/* dark syntax highlighting (base16, tomorrow night accents) */
+$base00: #181818 !default;
+$base01: #202020 !default;
+$base02: #2a2a2a !default;
+$base03: #5a5a5a !default;
+$base04: #7a7a7a !default;
+$base05: #c4c4c4 !default;
+$base06: #262626 !default;
+$base07: #e0e0e0 !default;
+$base08: #cc6666 !default;
+$base09: #de935f !default;
+$base0a: #f0c674 !default;
+$base0b: #b5bd68 !default;
+$base0c: #8abeb7 !default;
+$base0d: #81a2be !default;
+$base0e: #b294bb !default;
+$base0f: #a3685a !default;
 
 .author__urls.social-icons i,
 .author__urls.social-icons .svg-inline--fa,
