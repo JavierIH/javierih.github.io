@@ -22,6 +22,9 @@ github_username: JavierIH
 minimal_mistakes_skin: custom
 search: true
 
+analytics:
+  provider: "custom"
+
 repository: "javierih/javierih.github.io"
 comments:
   provider: "giscus"
