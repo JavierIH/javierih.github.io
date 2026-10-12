@@ -67,3 +67,60 @@ $doc-font-size-x-large: 18px;
     }
   }
 }
+
+/* "You may also enjoy": 2 columns of square teasers on mobile, 4 on desktop.
+   The theme stacks them full width on phones and crops them to a strip on desktop */
+.page__related .grid__wrapper {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.5em 1em;
+
+  &::after {
+    content: none;
+  }
+
+  .grid__item {
+    float: none;
+    width: auto;
+    margin: 0;
+  }
+
+  .archive__item-teaser {
+    max-height: none;
+    aspect-ratio: 1;
+
+    img {
+      height: 100%;
+      object-fit: cover;
+    }
+  }
+
+  @media (min-width: 768px) {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+/* Robots page: 3 columns of square photos at every width so the empty tiles keep their place */
+.robots-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em 0.75em;
+  max-width: 660px;
+  margin: 0 auto;
+}
+
+.robots-grid__item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-size: $type-size-6;
+  text-align: center;
+  color: $text-color;
+
+  img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    margin-bottom: 0.3em;
+  }
+}

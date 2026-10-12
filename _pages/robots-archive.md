@@ -3,28 +3,42 @@ title: ""
 permalink: /robots/
 layout: single
 author_profile: true
+# Laid out in rows of 3; entries without a url are empty "?" tiles
+robots:
+  - { name: "EchoEar × Kame32", url: /robots/echoearxkame32/, image: /assets/images/echokame-square.jpg }
+  - { name: "Kame32", url: /robots/kame32/, image: /assets/images/kame32-square.jpg }
+  - { name: "Raider", url: /robots/raider/, image: /assets/images/raider-square.jpg }
+  - { name: "Pandatron", url: /robots/pandatron/, image: /assets/images/pandatron-square.jpg }
+  - { name: "Zowi", url: /robots/zowi/, image: /assets/images/zowi-square.jpg }
+  - { name: "Abrelatas", url: /robots/abrelatas/, image: /assets/images/abrelatas-square.jpg }
+  - { name: "Maus", url: /robots/maus/, image: /assets/images/maus-square.jpg }
+  - { name: "Ratatron", url: /robots/ratatron/, image: /assets/images/ratatron-square.jpg }
+  - { name: "Minikame", url: /robots/minikame/, image: /assets/images/minikame-low.jpg }
+  - { name: "Micropanda", url: /robots/micropanda/, image: /assets/images/micropanda-square.jpg }
+  - { name: "Beerbot", url: /robots/beerbot/, image: /assets/images/beerbot-square.jpg }
+  - { name: "Twimaro", url: /robots/twimaro/, image: /assets/images/twimaro-square.jpg }
+  - {}
+  - { name: "Predator", url: /robots/predator/, image: /assets/images/predator-square.jpg }
+  - { name: "Laser Tower", url: /robots/laser-tower/, image: /assets/images/laser-tower-square.jpg }
+  - { name: "Zowimanoids", url: /robots/zowimanoids/, image: /assets/images/zowimanoids-square.jpg }
+  - {}
+  - {}
+  - {}
+  - { name: "Erizos bailones", url: /robots/erizos-bailones/, image: /assets/images/erizos-square.jpg }
+  - {}
 ---
 
-<style>
-td, th {
-   border: none!important;
-   vertical-align: top;
-   text-align: center;
-}
-td img {
-   width: 200px;
-   height: 200px;
-   object-fit: cover;
-   display: block;
-   margin: 0 auto;
-}
-</style>
-
-| [![robot](/assets/images/echokame-square.jpg 'robot')](/robots/echoearxkame32) EchoEar × Kame32 | [![robot](/assets/images/kame32-square.jpg 'robot')](/robots/kame32) Kame32 | [![robot](/assets/images/raider-square.jpg 'Raider')](/robots/raider) Raider |
-| [![robot](/assets/images/pandatron-square.jpg 'Pandatron')](/robots/pandatron) Pandatron | [![robot](/assets/images/zowi-square.jpg 'robot')](/robots/zowi) Zowi | [![robot](/assets/images/abrelatas-square.jpg 'robot')](/robots/abrelatas) Abrelatas |
-| [![robot](/assets/images/maus-square.jpg 'Maus')](/robots/maus) Maus | [![robot](/assets/images/ratatron-square.jpg 'Ratatron')](/robots/ratatron) Ratatron | [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/robots/minikame/) Minikame  |
-| [![robot](/assets/images/micropanda-square.jpg 'Micropanda')](/robots/micropanda) Micropanda | [![robot](/assets/images/beerbot-square.jpg 'Beerbot')](/robots/beerbot) Beerbot | [![robot](/assets/images/twimaro-square.jpg 'robot')](/robots/twimaro) Twimaro |
-| ![empty](/assets/images/empty.jpg) | [![robot](/assets/images/predator-square.jpg 'Predator')](/robots/predator) Predator | [![robot](/assets/images/laser-tower-square.jpg 'Laser Tower')](/robots/laser-tower) Laser Tower |
-| [![robot](/assets/images/zowimanoids-square.jpg 'Zowimanoids')](/robots/zowimanoids) Zowimanoids | ![empty](/assets/images/empty.jpg) | ![empty](/assets/images/empty.jpg) |
-| ![empty](/assets/images/empty.jpg) | [![robot](/assets/images/erizos-square.jpg 'Erizos bailones')](/robots/erizos-bailones) Erizos bailones | ![empty](/assets/images/empty.jpg) |
-
+<div class="robots-grid">
+{% for robot in page.robots %}
+  {% if robot.url %}
+  <a class="robots-grid__item" href="{{ robot.url | relative_url }}">
+    <img src="{{ robot.image | relative_url }}" alt="{{ robot.name }}" loading="lazy">
+    <span>{{ robot.name }}</span>
+  </a>
+  {% else %}
+  <div class="robots-grid__item">
+    <img src="{{ '/assets/images/empty.jpg' | relative_url }}" alt="">
+  </div>
+  {% endif %}
+{% endfor %}
+</div>
