@@ -1,6 +1,8 @@
 ---
 title: "EchoEar x Kame32"
 date: 2025-11-09
+header:
+  teaser: /assets/images/echokame-square.jpg
 comments: true
 categories:
   - robots

@@ -1,6 +1,8 @@
 ---
 title: "Micropanda"
 date: 2019-06-01
+header:
+  teaser: /assets/images/micropanda-square.jpg
 comments: true
 categories:
   - robots

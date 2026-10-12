@@ -1,6 +1,8 @@
 ---
 title: "Abrelatas"
 date: 2025-05-01
+header:
+  teaser: /assets/images/abrelatas-square.jpg
 categories:
   - robots
 ---

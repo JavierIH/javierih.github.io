@@ -13,3 +13,42 @@ $doc-font-size-x-large: 18px;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}";
 @import "minimal-mistakes";
+
+/* Small thumbnail next to each post in list archives */
+.archive__item--thumb {
+  display: flex;
+  align-items: flex-start;
+  gap: 1em;
+  margin-bottom: 2em;
+}
+
+.archive__item-thumb {
+  flex: 0 0 auto;
+  width: 96px;
+  height: 96px;
+  margin-top: 0.4em;
+  overflow: hidden;
+  border-radius: 4px;
+
+  img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+}
+
+.archive__item-text {
+  flex: 1 1 auto;
+  min-width: 0;
+
+  .archive__item-title {
+    margin-top: 0.25em;
+  }
+}
+
+@media (max-width: 480px) {
+  .archive__item-thumb {
+    width: 64px;
+    height: 64px;
+  }
+}

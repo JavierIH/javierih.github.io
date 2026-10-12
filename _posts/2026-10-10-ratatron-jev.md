@@ -1,6 +1,8 @@
 ---
 title: "Jev solving a micromouse maze"
 date: 2026-10-10
+header:
+  teaser: /assets/images/jev-square.jpg
 comments: true
 categories:
   - robots

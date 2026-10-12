@@ -1,6 +1,8 @@
 ---
 title: "Pandatron"
 date: 2025-04-19
+header:
+  teaser: /assets/images/pandatron-square.jpg
 categories:
   - robots
 ---
