@@ -52,3 +52,18 @@ $doc-font-size-x-large: 18px;
     height: 64px;
   }
 }
+
+/* Home page list reads small next to post bodies: scale it up */
+.layout--home .archive {
+  font-size: 1.25em;
+
+  .archive__item-thumb {
+    width: 120px;
+    height: 120px;
+
+    @media (max-width: 480px) {
+      width: 72px;
+      height: 72px;
+    }
+  }
+}
