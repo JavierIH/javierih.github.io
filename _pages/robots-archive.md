@@ -23,6 +23,6 @@ td img {
 | [![robot](/assets/images/echokame-square.jpg 'robot')](/robots/echoearxkame32) EchoEar × Kame32 | [![robot](/assets/images/kame32-square.jpg 'robot')](/robots/kame32) Kame32 | [![robot](/assets/images/raider-square.jpg 'Raider')](/robots/raider) Raider |
 | [![robot](/assets/images/pandatron-square.jpg 'Pandatron')](/robots/pandatron) Pandatron | [![robot](/assets/images/zowi-square.jpg 'robot')](/robots/zowi) Zowi | [![robot](/assets/images/abrelatas-square.jpg 'robot')](/robots/abrelatas) Abrelatas |
 | [![robot](/assets/images/maus-square.jpg 'Maus')](/robots/maus) Maus | [![robot](/assets/images/ratatron-square.jpg 'Ratatron')](/robots/ratatron) Ratatron | [![Minikame](/assets/images/minikame-low.jpg 'Minikame')](/robots/minikame/) Minikame  |
-| [![robot](/assets/images/micropanda-square.jpg 'Micropanda')](/robots/micropanda) Micropanda | [![robot](/assets/images/empty.jpg 'robot')](/projects) robot | [![robot](/assets/images/twimaro-square.jpg 'robot')](/robots/twimaro) Twimaro |
-| [![robot](/assets/images/empty.jpg 'robot')](/projects) Kame | [![robot](/assets/images/empty.jpg 'robot')](/projects) Beerbot | [![robot](/assets/images/empty.jpg 'robot')](/projects) Zowimanoids |
+| [![robot](/assets/images/micropanda-square.jpg 'Micropanda')](/robots/micropanda) Micropanda | [![robot](/assets/images/beerbot-square.jpg 'Beerbot')](/robots/beerbot) Beerbot | [![robot](/assets/images/twimaro-square.jpg 'robot')](/robots/twimaro) Twimaro |
+| [![robot](/assets/images/empty.jpg 'robot')](/projects) Kame | [![robot](/assets/images/empty.jpg 'robot')](/projects) robot | [![robot](/assets/images/empty.jpg 'robot')](/projects) Zowimanoids |
 
