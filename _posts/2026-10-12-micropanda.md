@@ -28,7 +28,7 @@ categories:
 
 Micropanda is a microsumo robot I built in 2019: two robots inside a ring, and the first one to push the other out wins. In microsumo the robot must fit in a 5x5 cm square and weigh 100 g at most. Like [Ratatron](/robots/ratatron) and [Pandatron](/robots/pandatron), it's based on an STM32F103.
 
-![Micropanda](/assets/images/micropanda.jpg)
+![Micropanda](/assets/images/micropanda.jpg){: style="width: 100%"}
 
 It meets both limits, and there's still some weight left to add ballast.
 
