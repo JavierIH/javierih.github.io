@@ -1,11 +1,17 @@
 ---
 title: "Jev solving a micromouse maze"
 date: 2026-10-10
+excerpt: "Jev, by TypeSafe AI, answers closed questions with a probability. I put it in charge of Ratatron, my micromouse, to see if it can solve a maze."
 header:
   teaser: /assets/images/jev-square.jpg
 comments: true
 categories:
   - robots
+tags:
+  - jev
+  - typesafe
+  - micromouse
+  - ai
 ---
 
 [Jev](https://typesafe.ai/) is an AI model that doesn't write text: you give it some data and a few closed questions (yes/no, pick an option, a score), and it answers each one with a probability. I think that fits a robot really well: sensor readings in, a decision for the motors out. So I tried it with [Ratatron](/robots/ratatron/), my micromouse.
