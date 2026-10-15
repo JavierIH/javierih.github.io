@@ -15,6 +15,9 @@ Zowimanoids are modified versions of [Zowi](/robots/zowi) with two arms and a he
 
 Zowimanoids were made by Alberto Arribas, David Sánchez, Sonia Verdú and me, together with the rest of [bqlabs](https://github.com/bqlabs), with photos and video by Diego Aldea and María de Prado. They are released under a [CC-BY-SA](https://creativecommons.org/licenses/by-sa/3.0/es/) license, and all the sources are in the [Zowi repository](https://github.com/JavierIH/zowi/tree/master/mods).
 
+Zowimanoids were featured on Xataka (in Spanish):
+[Los Zowimanoides son robots imprimibles 3D que bq nos permite personalizar y programar para que luchen entre ellos sin cuartel](https://www.xataka.com/robotica-e-ia/zowimanoides-robots-imprimibles-3d-que-bq-nos-permite-personalizar-programar-luchen-ellos-cuartel)
+
 # Step 0: the materials
 
 To build a zowimanoid you need the printed parts, the electronics, some screws and nuts and a few tools.
